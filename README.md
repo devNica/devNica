@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h3>Languages, frameworks and tools</h3>
 <p>
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-33cfd6?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffb833?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-eedf2e?style=flat-square&logo=python&logoColor=blue" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
