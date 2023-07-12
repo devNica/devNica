@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 
 ![Lucas Andres Marsell's Github Stats](https://github-readme-stats.vercel.app/api?username=devNica&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devNica&hide=TeX&layout=compact)
-![Top Langs](https://img.shields.io/github/languages/top/devNica/devNica)
