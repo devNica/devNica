@@ -1,42 +1,54 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**devNica/devNica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alejandro Gonzalez Sanchez
 
-Here are some ideas to get you started:
+### Software Engineer · Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend engineering · API integrations · Event-driven systems**
 
-<h3>Languages, frameworks and tools</h3>
-<p>
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-33cfd6?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffb833?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-eedf2e?style=flat-square&logo=python&logoColor=blue" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-devNica-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devNica)
 
-![Lucas Andres Marsell's Github Stats](https://github-readme-stats.vercel.app/api?username=devNica&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devNica&hide=TeX&layout=compact)
+</div>
+
+---
+
+### About me
+
+I'm a software engineer focused on building maintainable applications, reliable APIs, and integrations between complex systems. I work across the stack, with a particular interest in backend architecture, event-driven workflows, data consistency, and pragmatic engineering decisions.
+
+I value **clear code, predictable behavior, observability, and simplicity** over unnecessary complexity.
+
+### Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Rust |
+| **Frontend** | Angular, HTML, CSS |
+| **Backend** | Node.js, Rust (Axum), REST APIs, webhooks |
+| **Data & cloud** | PostgreSQL, Firebase, Firestore, BigQuery, Google Cloud |
+| **Tools** | Git, Docker, Postman |
+
+### Engineering interests
+
+- **Backend systems:** API design, service boundaries, validation, and error handling.
+- **Integrations:** webhook processing, asynchronous events, and external platform APIs.
+- **Data:** database design, consistency, querying, and operational reporting.
+- **Software quality:** testability, observability, maintainability, and incremental improvements.
+
+### Selected areas of work
+
+- WhatsApp Cloud API integrations, messaging workflows, and channel synchronization.
+- Frontend and backend features for enterprise communication platforms.
+- Event-driven processing and cloud-based data workflows.
+
+> I aim to build software that is straightforward to understand, operate, and evolve.
+
+---
+
+<div align="center">
+
+**Explore my projects and contributions**
+
+[github.com/devNica](https://github.com/devNica)
+
+</div>
